@@ -24,6 +24,28 @@ Estas estadísticas se generan de forma automática analizando todo el código d
 
 ---
 
+## 🛠️ Stack Tecnológico
+
+### 👨‍💻 Lenguajes de Programación
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,php,js,dart,ruby,bash" alt="Lenguajes de programación" />
+</div>
+
+### 🌐 Desarrollo Web y Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,laravel,django,fastapi" alt="Desarrollo Web y Frameworks" />
+</div>
+
+### ⚙️ Sistemas y Bases de Datos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,mysql,postgres,mongo" alt="Sistemas y Base de Datos" />
+</div>
+
+### 🧰 Herramientas y Entornos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,md" alt="Herramientas y Entornos" />
+</div>
+---
 Para saber más sobre mis proyectos puedes revisar cualquiera de mis repositorios públicos.
 
 **¡Muchas gracias por tu tiempo!**
