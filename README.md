@@ -28,22 +28,50 @@ Estas estadísticas se generan de forma automática analizando todo el código d
 
 ### 👨‍💻 Lenguajes de Programación
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,php,js,dart,ruby,bash" alt="Lenguajes de programación" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" alt="Ruby" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
 </div>
 
 ### 🌐 Desarrollo Web y Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,laravel,django,fastapi" alt="Desarrollo Web y Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
 </div>
 
 ### ⚙️ Sistemas y Bases de Datos
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,mysql,postgres,mongo" alt="Sistemas y Base de Datos" />
+  <img src="https://skillicons.dev/icons?i=linux" title="GNU/Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=debian" title="Debian" alt="Debian" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker & Docker Compose" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB" alt="MongoDB" />
 </div>
 
 ### 🧰 Herramientas y Entornos
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,md" alt="Herramientas y Entornos" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" alt="Eclipse" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=md" title="Markdown" alt="Markdown" />
+  <img src="https://skillicons.dev/icons?i=jest" title="Jest (Testing)" alt="Jest" />
+  <img src="https://skillicons.dev/icons?i=selenium" title="Selenium (Testing)" alt="Selenium" />
 </div>
 
 ---
