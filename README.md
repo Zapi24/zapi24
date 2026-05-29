@@ -26,8 +26,8 @@ Estas estadísticas se generan de forma automática analizando todo el código d
 
 ---
 
-## 🛠️ Stack Tecnológico
-
+## Muchas de las tecnologías que he usado 😜
+(Pon el ratón sobre ellas para descubrir más)
 ### 👨‍💻 Lenguajes de Programación
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
