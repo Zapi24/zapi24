@@ -72,8 +72,6 @@ Estas estadísticas se generan de forma automática analizando todo el código d
   <img src="https://skillicons.dev/icons?i=obsidian" title="Obisidian" alt="Obsidian" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=md" title="Markdown" alt="Markdown" />
-  <img src="https://skillicons.dev/icons?i=jest" title="Jest (Testing)" alt="Jest" />
-  <img src="https://skillicons.dev/icons?i=selenium" title="Selenium (Testing)" alt="Selenium" />
 </div>
 
 ---
