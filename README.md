@@ -4,11 +4,11 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 * Estudiante de Ingeniería Informática en la Universidad de Granada (UGR).
 * Actualmente formo parte del equipo de la Oficina de Software Libre de la UGR (OSL Granada).
-* Especializado con mención en Ingeniería de software.
+* Especializado con mención en Ingeniería de Software.
 * Firme defensor de la filosofía open-source.
 * Siempre abierto a explorar nuevas tecnologías y colaborar en todo tipo de proyectos.
 
