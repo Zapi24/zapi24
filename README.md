@@ -18,7 +18,9 @@
 
 Estas estadísticas se generan de forma automática analizando todo el código de mis repositorios:
 
-![Language Stats](stats/leaderboard_by_bytes.png)
+| Ranking Ponderado (Código y Repos) | Uso según número de Repositorios |
+| :---: | :---: |
+| ![Estadísticas de Barras](stats/bar_by_weighted.png) | ![Estadísticas de Pastel](stats/pie_by_repos.png) |
 
 ---
 
