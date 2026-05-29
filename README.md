@@ -45,7 +45,9 @@ Estas estadísticas se generan de forma automática analizando todo el código d
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,md" alt="Herramientas y Entornos" />
 </div>
+
 ---
+
 Para saber más sobre mis proyectos puedes revisar cualquiera de mis repositorios públicos.
 
 **¡Muchas gracias por tu tiempo!**
