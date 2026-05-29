@@ -67,7 +67,7 @@ Estas estadísticas se generan de forma automática analizando todo el código d
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" alt="Eclipse" />
+  <img src="https://skillicons.dev/icons?i=obsidian" title="Obisidian" alt="Obsidian" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=md" title="Markdown" alt="Markdown" />
   <img src="https://skillicons.dev/icons?i=jest" title="Jest (Testing)" alt="Jest" />
