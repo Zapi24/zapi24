@@ -1,6 +1,7 @@
 # Hola, soy Zapi 👋
-
-**Estudiante de Ingeniería Informática | Especialista en Desarrollo y Despliegue de Software**
+<div align="center">
+  <h2>Estudiante de Ingeniería Informática | Especializado en Desarrollo y Despliegue de Software</h2>
+</div>
 
 ---
 
