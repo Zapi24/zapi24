@@ -13,6 +13,7 @@
 * Especializado con mención en Ingeniería de Software.
 * Firme defensor de la filosofía open-source.
 * Siempre abierto a explorar nuevas tecnologías y colaborar en todo tipo de proyectos.
+* Me encanta hacer interfaces "dosmileras" con personalidad y estilo únicas (Los estímulos ganan al minimalismo).
 
 ---
 
