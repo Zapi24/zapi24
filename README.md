@@ -40,6 +40,7 @@ Estas estadísticas se generan de forma automática analizando todo el código d
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" />
   <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" alt="Ruby" />
   <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=godot" title="Godot" alt="Godot" />
 </div>
 
 ### 🌐 Desarrollo Web y Frameworks
@@ -63,6 +64,7 @@ Estas estadísticas se generan de forma automática analizando todo el código d
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB" alt="MongoDB" />
+  
 </div>
 
 ### 🧰 Herramientas y Entornos
@@ -70,6 +72,7 @@ Estas estadísticas se generan de forma automática analizando todo el código d
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=obsidian" title="Obisidian" alt="Obsidian" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=md" title="Markdown" alt="Markdown" />
